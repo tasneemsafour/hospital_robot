@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9c34112-37c9-425a-9c9b-d25bbec2c667" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Hospital-application/assets/images/roboot.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/API/speech_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/Models/Tasks.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/Speech_Screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/Video_Screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/broadcast_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/Widget/substring_highlighted.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/appid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital-application/lib/utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/BioLabAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/BioLabAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/PersonApi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/PersonApi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/RopotAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/RopotAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/chargingStationApi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/chargingStationApi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/departmentAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/departmentAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/foodItemApi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/foodItemApi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/login_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/login_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/medicineAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/medicineAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/patient_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/patient_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/pushMissionAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/pushMissionAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/questionAPI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/questionAPI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/roomApi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/roomApi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/task_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/task_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/API/task_category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/API/task_category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Models/MissionModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Models/MissionModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Models/mission.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Models/mission.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Screens/Tasks_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/Tasks_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Screens/before_mission.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/before_mission.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Screens/home-screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/home-screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Screens/medicineScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Screens/medicineScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/Widget/gridOfHome_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/Widget/gridOfHome_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital-application/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital-application/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Hospital-application" />
+  </component>
+  <component name="ProjectId" id="1ucg4TJ8zrpJPAohE3Q5s0v9ZHD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/Flutter/android-sdk/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="D:/Flutter/flutter/bin/cache/dart-sdk" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Hospital-application/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Hospital-application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Hospital-application/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9c34112-37c9-425a-9c9b-d25bbec2c667" name="Default Changelist" comment="" />
+      <created>1624970099776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624970099776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624985102528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1624985102528" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624989738847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1624989738847" />
+    <state x="481" y="144" key="FileChooserDialogImpl" timestamp="1624985218491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="144" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624985218491" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1624995517768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624995517768" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1624995517768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624995517768" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1624995517767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624995517767" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1624995517768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624995517768" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1624985223386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1624985223386" />
+  </component>
+</project>
